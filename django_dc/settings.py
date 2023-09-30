@@ -26,6 +26,8 @@ SECRET_KEY = 'django-insecure-4t7jrd)2+x!0flj8ws!+fmx6*x*86*7s(0hh-h-isweh*z47ao
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'cms.darkcode.software'
+    'db.darkcode.software'
     '142.93.250.67',
     '157.230.3.7',
     '192.168.1.151',
